@@ -5,6 +5,8 @@ public class git2 {
 
         for (int i = 0; i < 3; i++) {
             System.out.println("你好这是第二");
+            System.out.println("push成功");
+
         }
     }
 }
